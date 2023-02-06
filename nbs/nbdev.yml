@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "Torch MLIR dialect notes"
+  site-url: "https://vguerra.github.io/torch-mlir-notes"
+  description: "Notes related to Torch MLIR dialect"
+  repo-branch: main
+  repo-url: "https://github.com/vguerra/torch-mlir-notes"
